@@ -24,17 +24,17 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.goosedefi.com/farms'
+    href: 'https://www.bourbondefi.com/farms'
   },
   {
     label: 'Nests',
     icon: 'PoolIcon',
-    href: 'https://www.goosedefi.com/nests'
+    href: 'https://www.bourbondefi.com/nests'
   },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
-  //   href: 'https://www.goosedefi.com/lottery'
+  //   href: 'https://www.bourbondefi.com/lottery'
   // },
   {
     label: 'Info',
@@ -64,11 +64,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/bourbondefi/",
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "https://bourbondefi.gitbook.io/goose-finance/",
       },
       {
         label: "Blog",
@@ -84,7 +84,7 @@ const config: MenuEntry[] = [
  // {
  //   label: 'Audit by Hacken',
  //   icon: 'AuditIcon',
- //   href: 'https://www.goosedefi.com/files/hackenAudit.pdf',
+ //   href: 'https://www.bourbondefi.com/files/hackenAudit.pdf',
  // },
  // {
  //   label: 'Audit by CertiK',
