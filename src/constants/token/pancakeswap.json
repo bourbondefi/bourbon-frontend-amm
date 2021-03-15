@@ -640,6 +640,14 @@
       "address": "0xbf7c81fff98bbe61b40ed186e4afd6ddd01337fe",
       "chainId": 56,
       "decimals": 18
+    },
+    {
+      "name": "Bourbon Barrel",
+      "symbol": "BRRL",
+      "address": "0x7DBaCb2Cca8e4870a64db85f4C91fc86D676E303",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BRRL.png"
     }
   ]
 }
