@@ -27,7 +27,7 @@ const config: MenuEntry[] = [
     href: 'https://www.bourbondefi.com/farms'
   },
   {
-    label: 'Nests',
+    label: 'Distillery',
     icon: 'PoolIcon',
     href: 'https://www.bourbondefi.com/nests'
   },
