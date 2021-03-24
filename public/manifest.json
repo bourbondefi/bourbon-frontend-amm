@@ -1,15 +1,15 @@
 {
-  "short_name": "BourbonFinance",
-  "name": "BourbonFinance",
+  "short_name": "Bourbon Finance",
+  "name": "Bourbon Finance",
+  "description": "Farm BRRL with LP Tokens",
   "icons": [
     {
-      "src": "./logo.png",
-      "sizes": "160x160",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "256x256"
     }
   ],
-  "orientation": "portrait",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
