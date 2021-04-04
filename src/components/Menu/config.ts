@@ -31,6 +31,11 @@ const config: MenuEntry[] = [
     icon: 'PoolIcon',
     href: 'https://www.bourbondefi.com/nests'
   },
+  {
+    label: 'Bourbon Pool',
+    icon: 'PoolIcon',
+    href: 'https://www.bourbondefi.com/pools'
+  },
   // {
   //   label: 'Lottery',
   //   icon: 'TicketIcon',
