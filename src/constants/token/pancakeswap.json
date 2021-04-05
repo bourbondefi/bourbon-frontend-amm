@@ -648,6 +648,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/BRRL.png"
+    },
+    {
+      "name": "Rare Bourbon Token",
+      "symbol": "BRRL",
+      "address": "0x7595bb34Bf391C3de0a6878A36D06223b2BFd404",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/RBT.png"
     }
   ]
 }
