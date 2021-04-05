@@ -27,9 +27,19 @@ const config: MenuEntry[] = [
     href: 'https://www.bourbondefi.com/farms'
   },
   {
+    label: 'Rare Farms',
+    icon: 'FarmIcon',
+    href: 'https://farms.bourbondefi.com/farms'
+  },
+  {
     label: 'Distillery',
     icon: 'PoolIcon',
     href: 'https://www.bourbondefi.com/nests'
+  },
+  {
+    label: 'Rare Distillery',
+    icon: 'PoolIcon',
+    href: 'https://farms.bourbondefi.com/nests'
   },
   // {
   //   label: 'Lottery',
