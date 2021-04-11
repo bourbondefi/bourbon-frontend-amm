@@ -664,6 +664,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/SWAMP.png"
+    },
+    {
+      "name": "Injective Protocol",
+      "symbol": "INJ",
+      "address": "0xa2B726B1145A4773F68593CF171187d8EBe4d495",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/INJ.png"
     }
+
   ]
 }
