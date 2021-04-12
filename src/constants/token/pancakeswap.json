@@ -664,6 +664,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/SWAMP.png"
+    },
+    {
+      "name": "SQUIRE",
+      "symbol": "SQUIRE",
+      "address": "0x2F0D21f1B84F03fB9D60004fc206C86Be6902a32",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/SQUIRE.png"
     }
 ]
 }
