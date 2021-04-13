@@ -672,6 +672,30 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/SQUIRE.png"
+    },
+    {
+      "name": "KNIGHT",
+      "symbol": "KNIGHT",
+      "address": "0x16C0e0936E1B38Ff1F9b8a1e75d8ba29aDf87d30",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/KNIGHT.png"
+    },
+    {
+      "name": "TABLE",
+      "symbol": "TABLE",
+      "address": "0xf5a2F7418035ce76967F515f39d65719bB0453B6",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/TABLE.png"
+    },
+    {
+      "name": "LEGEND",
+      "symbol": "LEGEND",
+      "address": "0xDc661984735b535210CB1f52f86cc58616024192",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/LEGEND.png"
     }
 ]
 }
