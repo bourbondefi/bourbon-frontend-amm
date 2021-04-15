@@ -696,6 +696,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/LEGEND.png"
+    },
+    {
+      "name": "Top Shelf Bourbon Token",
+      "symbol": "TSB",
+      "address": "0xA37F71f092F891757d23Dd350f57C78E8469c026",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/TSB.png"
     }
 ]
 }
